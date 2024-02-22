@@ -1,0 +1,8 @@
+
+Isim : suat
+Soyad : ugurlu
+Telefon Numara : 03456555
+Email Adres : fffhhh
+Sifre : 1234
+Ev Adres : bbb
+Satin Aldiniz Urun Fiyati : -1.0
